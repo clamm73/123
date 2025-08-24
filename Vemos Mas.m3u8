@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="-",Telefe HD
-http://181.10.123.154:14000/play/a06c/index.m3u8
+http://181.13.112.203:8100/play/a06c/index.m3u8
 #EXTINF:-1 group-title="-",Telefe HD
 http://190.95.60.228:8500/play/a042
 #EXTINF:-1 group-title="-",TNT Sports Premiun HD
@@ -25,8 +25,6 @@ http://45.160.12.200:8008/play/067/index.m3u8
 http://45.160.12.200:8008/play/064/index.m3u8
 #EXTINF:-1 group-title="-",CHV
 http://45.160.12.200:8008/play/066/index.m3u8
-#EXTINF:-1 group-title="-",TVU
-http://45.4.169.50:8000/play/a01p
 #EXTINF:-1 group-title="-",TV+ HD
 http://45.160.12.200:8008/play/063/index.m3u8
 #EXTINF:-1 group-title="-",La Red HD
@@ -88,7 +86,7 @@ http://181.10.123.154:14000/play/a01r/index.m3u8
 #EXTINF:-1 group-title="-",A24
 http://181.10.123.154:14000/play/a01o/index.m3u8
 #EXTINF:-1 group-title="-",C5N
-http://181.10.123.154:14000/play/a0d5/index.m3u8
+http://181.13.112.203:8100/play/a01p/index.m3u8
 #EXTINF:-1 group-title="-",AXN HD
 http://45.160.12.200:8008/play/087/index.m3u8
 #EXTINF:-1 group-title="-",FX HD
@@ -183,3 +181,5 @@ http://45.160.12.200:8008/play/152/index.m3u8
 http://45.160.12.200:8008/play/a06w/index.m3u8
 #EXTINF:-1 group-title="-",Telefe HD
 http://143.0.67.77:8000/play/a06c/index.m3u8
+#EXTINF:-1 group-title="-",TNT Sports Premiun HD
+http://38.250.127.17:9800/play/a06g/index.m3u8

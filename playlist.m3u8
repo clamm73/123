@@ -17,10 +17,10 @@ http://38.250.127.17:9800/play/a05h/index.m3u8
 http://38.250.127.17:9800/play/a09n/index.m3u8
 #EXTINF:-1,TV+ HD
 http://38.250.127.17:9800/play/a09m/index.m3u8
-#EXTINF:-1,NTN 24 Horas
-http://38.250.127.17:9800/play/a07c/index.m3u8
 #EXTINF:-1,Canal 24 Horas HD
 http://38.250.127.17:9800/play/a09o/index.m3u8
+#EXTINF:-1,CNN Chile
+http://38.7.200.150:8999/play/a0e4/index.m3u8
 #EXTINF:-1,CNN Espaæol
 http://38.250.127.17:9800/play/a0a7/index.m3u8
 #EXTINF:-1,France 24
@@ -57,11 +57,11 @@ http://38.250.127.17:9800/play/a05t/index.m3u8
 http://38.250.127.17:9800/play/a05q/index.m3u8
 #EXTINF:-1,ESPN 3 HD
 http://38.250.127.17:9800/play/a05m/index.m3u8
-#EXTINF:-1,ESPN 4HD
+#EXTINF:-1,ESPN 4 HD
 http://38.250.127.17:9800/play/a05l/index.m3u8
-#EXTINF:-1,ESPN 5HD
+#EXTINF:-1,ESPN 5 HD
 http://38.250.127.17:9800/play/a06f/index.m3u8
-#EXTINF:-1,ESPN 6HD
+#EXTINF:-1,ESPN 6 HD
 http://38.250.127.17:9800/play/a05n/index.m3u8
 #EXTINF:-1,TyC Sports
 http://38.250.127.17:9800/play/a07k/index.m3u8
@@ -134,6 +134,6 @@ http://38.250.127.17:9800/play/a069/index.m3u8
 #EXTINF:-1,Nick HD
 http://38.250.127.17:9800/play/a06m/index.m3u8
 #EXTINF:-1,Telefe HD
-http://200.80.230.125:8000/play/a06c/index.m3u8
+http://181.209.125.237:9000/play/a056/index.m3u8
 #EXTINF:-1,TN Sports Premium HD
 http://181.188.216.5:18000/play/a0ik/index.m3u8

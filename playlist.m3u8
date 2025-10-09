@@ -18,13 +18,13 @@ http://38.250.127.17:9800/play/a09n/index.m3u8
 #EXTINF:-1,TV+ HD
 http://38.250.127.17:9800/play/a09m/index.m3u8
 #EXTINF:-1,Canal 24 Horas HD
-http://38.250.127.17:9800/play/a09o/index.m3u8
+http://201.222.45.70:4005/play/a0j9/index.m3u8
 #EXTINF:-1,CNN Chile
 http://38.7.200.150:8999/play/a0e4/index.m3u8
 #EXTINF:-1,CNN Espaæol
 http://38.250.127.17:9800/play/a0a7/index.m3u8
 #EXTINF:-1,France 24
-http://38.250.127.17:9800/play/a075/index.m3u8
+http://152.230.229.66:8001/play/a028/index.m3u8
 #EXTINF:-1,DW Espaæol
 http://38.250.127.17:9800/play/a07h/index.m3u8
 #EXTINF:-1,Animal Planet
@@ -38,17 +38,17 @@ http://38.250.127.17:9800/play/a078/index.m3u8
 #EXTINF:-1,Discovery Channel  HD
 http://38.250.127.17:9800/play/a09u/index.m3u8
 #EXTINF:-1,Love Nature
-http://190.119.168.226:4000/play/a02x/index.m3u8
+http://38.250.126.145:832/play/a0hk
 #EXTINF:-1,Love The Planet
 http://190.211.172.154:8965/play/a01x/index.m3u8
 #EXTINF:-1,Discovery Theater HD
-http://38.250.127.17:9800/play/a05j/index.m3u8
+http://38.43.150.80:8000/play/a0cu/index.m3u8
 #EXTINF:-1,Discovery World HD
-http://38.250.127.17:9800/play/a06a/index.m3u8
+http://38.43.150.80:8000/play/a0ci/index.m3u8
 #EXTINF:-1,El Gourmet HD
 http://38.250.127.17:9800/play/a09y/index.m3u8
 #EXTINF:-1,Food Network HD
-http://38.250.127.17:9800/play/a09q/index.m3u8
+http://38.43.150.80:8000/play/a0dp/index.m3u8
 #EXTINF:-1,ESPN Premium HD
 http://38.250.127.17:9800/play/a05x/index.m3u8
 #EXTINF:-1,ESPN HD
@@ -62,9 +62,11 @@ http://38.250.127.17:9800/play/a05l/index.m3u8
 #EXTINF:-1,ESPN 5 HD
 http://38.250.127.17:9800/play/a06f/index.m3u8
 #EXTINF:-1,ESPN 6 HD
-http://38.250.127.17:9800/play/a05n/index.m3u8
+http://38.43.150.80:8000/play/a056/index.m3u8
+#EXTINF:-1,ESPN 7 HD
+http://38.43.150.80:8000/play/a0ek/index.m3u8
 #EXTINF:-1,TyC Sports
-http://38.250.127.17:9800/play/a07k/index.m3u8
+http://38.43.150.80:8000/play/a08y/index.m3u8
 #EXTINF:-1,TN HD
 http://201.217.246.177:8000/play/a058/index.m3u8
 #EXTINF:-1,C5N
@@ -86,7 +88,7 @@ http://201.217.246.177:8000/play/a04h/index.m3u8
 #EXTINF:-1,AXN HD
 http://38.250.127.17:9800/play/a0a3/index.m3u8
 #EXTINF:-1,FX HD
-http://38.250.127.17:9800/play/a06n/index.m3u8
+http://38.43.150.80:8000/play/a098/index.m3u8
 #EXTINF:-1,Paramount HD
 http://38.250.127.17:9800/play/a05s/index.m3u8
 #EXTINF:-1,Sony HD
@@ -104,7 +106,7 @@ http://38.250.127.17:9800/play/a09r/index.m3u8
 #EXTINF:-1,HBO POP HD
 http://38.250.127.17:9800/play/a06j/index.m3u8
 #EXTINF:-1,HBO MUNDI
-http://38.250.127.17:9800/play/a07p/index.m3u8
+http://38.43.150.80:8000/play/a0el/index.m3u8
 #EXTINF:-1,A&E HD
 http://38.250.127.17:9800/play/a09w/index.m3u8
 #EXTINF:-1,STAR CHANNEL HD
